@@ -20,7 +20,7 @@ This sample shows you how to use the Microsoft Azure Cosmos DB service to store 
 
 2.Clone this repository using Git for Windows (http://www.git-scm.com/), or download the zip file.
 
-3.From Visual Studio, open the [CosmosWebSample.csproj](./src/CosmosWebSample.csproj).
+3.From Visual Studio, open the [todo.csproj](./src/todo.csproj).
 
 4.In Visual Studio Build menu, select **Build Solution** (or Press F6). 
 
